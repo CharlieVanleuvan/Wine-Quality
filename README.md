@@ -15,3 +15,5 @@ Final project for IST 687 Introduction to data science with R
 5.Evaluate the models  
 6.Conclusion and next steps  
 
+### Report
+View report PDF to see project details
